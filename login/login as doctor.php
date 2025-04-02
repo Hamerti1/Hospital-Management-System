@@ -19,6 +19,18 @@ if (isset($_POST['uname'])) {
         echo"<script type='text/javascript'>window.alert('Invalid Username or Password');window.location='login/login as doctor.html';</script>";
     }
 }
+    Doctor Login Details
+Username:- email@gmail.com  Password:- password@19
+Username:- email@gmail.com  Password:- password19
+Username:- email@gmail.com  Password:- password@19
+Username:- email@gmail.com  Password:- password@19
+Username:- email@gmail.com  Password:- password@19
+Username:- email@gmail.com  Password:- password@19
+Username:- email@gmail.com  Password:- password@19
+Username:- email@gmail.com  Password:- password@19
+Username:- email@gmail.com  Password:- password@19
+Username:- email@gmail.com  Password:- password@19
+Username:- email@gmail.com Password:-  password@19
 ?>
 
 
